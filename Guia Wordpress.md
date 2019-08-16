@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="guia-para-manutenção-e-modificação-de-plugins-wordpress">Guia para manutenção e modificação de plugins Wordpress</h1>
 <p>Guia feito para auxiliar programadores de primeira viagem em manutenção ou modificação de plugins para Wordpress.</p>
 <h2 id="primeiros-passos">Primeiros passos</h2>
